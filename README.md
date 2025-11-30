@@ -1,2 +1,2 @@
-# Projeto_JS_07_Relogio_Digital
-Projeto_JS_07_Relogio_Digital
+# Projeto_07_Relogio_Digital
+relógio digital feito em HTML, CSS E JavaScript
